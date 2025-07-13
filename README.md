@@ -80,7 +80,7 @@
   <a href="https://discordapp.com/users/598221181962682371" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="kadu2229@yahoo.com.br" target="_blank">
+  <a href="kadu222963@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-s-710555119/" target="_blank">
