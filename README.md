@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40122c&height=120&section=header&text=Gabriela+Guedes&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=40122c&height=120&section=header&text=Carlos+Eduardo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gabriela+Guedes!;21+years+old,+from+Rio+de+Janeiro,+Brazil.;Student+of+Systems+Analysis+and+Development.;Welcome+to+my+GitHub!+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+Eduardo!;25+years+old,+from+Rio+de+Janeiro,+Brazil.;Student+of+Systems+Analysis+and+Development.;Welcome+to+my+GitHub!+🌟)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gabrielaguedes12">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielaguedes12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielaguedes12&layout=compact&langs_count=6&theme=radical"/>
+  <a href="https://github.com/kadu2229">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kadu2229&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kadu2229&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </div>
 
@@ -63,7 +63,6 @@
 | JavaScript         | █████████░░░ 70% |
 | React              | ████████░░░░ 60% |
 | Python             | █████░░░░░░░ 30% |
-| PHP                | █████░░░░░░░ 30% |
 | SQL Server         | ███████░░░░░ 50% |
 | Node.js            | ████░░░░░░░░ 20% |
 | Java               | ████░░░░░░░░ 20% |
