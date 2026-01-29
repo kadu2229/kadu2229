@@ -1,75 +1,86 @@
-<h1 align="center">👋 Olá, eu sou o Carlos Eduardo</h1>
+<h1 align="center">Carlos Eduardo</h1>
 
 <p align="center">
-Desenvolvedor de Software | Focado em Front-end moderno e aplicações web completas
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Front-end+with+React;Web+Applications&center=true&width=500&height=45"
+  />
+</p>
+
+<p align="center">
+  <a href="https://kadusilva.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/carlos-eduardo-s-710555119/" target="_blank">LinkedIn</a> •
+  <a href="mailto:kadu2229@yahoo.com.br">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### About
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em **JavaScript**, **React** e desenvolvimento de aplicações web modernas.  
-Tenho experiência prática criando projetos do front ao back, sempre buscando código limpo, organização e soluções bem estruturadas.
+I am a Software Developer and Systems Analysis student, focused on building modern web applications using JavaScript and React.  
+I have practical experience working with front-end and back-end technologies, prioritizing clean code, organization, and user experience.
 
-Gosto de transformar ideias em interfaces funcionais, responsivas e intuitivas, além de me aprofundar constantemente em novas tecnologias.
-
-🌐 Confira meu portfólio: **https://kadusilva.netlify.app/**
+Portfolio: https://kadusilva.netlify.app/
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### Tech Stack
 
 **Front-end**
-- HTML5 | CSS3 | JavaScript
-- React | Redux
-- Bootstrap | Tailwind CSS
+- HTML5, CSS3, JavaScript
+- React, Redux
+- Tailwind CSS, Bootstrap
 - Handlebars
-- Responsividade e boas práticas de UI/UX
 
 **Back-end**
-- Node.js | Express  
+- Node.js, Express
 - C#
-- Arquitetura MVC
-- APIs REST
+- MVC Architecture
+- REST APIs
 
-**Banco de Dados**
-- MySQL  
-- PostgreSQL  
+**Databases**
+- MySQL
+- PostgreSQL
 - TiDB
 
-**Outros**
-- Git & GitHub
+**Tools**
+- Git and GitHub
 - Cloudinary
 - WebSockets
 
 ---
 
-### 📚 Atualmente estudando
-- React avançado e gerenciamento de estado
-- Arquitetura de aplicações
-- Boas práticas de código e performance
-- Comunicação em tempo real (WebSockets)
-- Evolução em C# e back-end
+### Currently Learning
+- Advanced React and state management
+- Software architecture
+- Code quality and performance
+- Real-time communication with WebSockets
+- Back-end development with C#
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=kadu2229&show_icons=true&count_private=true"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadu2229&layout=compact"
+  />
 </p>
 
 ---
 
-### 📫 Contato
+### GitHub Activity
 
-📍 LinkedIn: https://www.linkedin.com/in/carlos-eduardo-s-710555119/  
-🌐 Portfólio: https://kadusilva.netlify.app/  
-📧 Email: **kadu2229@yahoo.com.br**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kadu2229/kadu2229/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 <p align="center">
-Em constante evolução, sempre buscando aprender e construir soluções melhores 🚀
+  Always improving, focused on learning and building better solutions.
 </p>
