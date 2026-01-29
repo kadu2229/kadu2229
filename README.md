@@ -63,13 +63,14 @@ Portfolio: https://kadusilva.netlify.app/
 <p align="center">
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=kadu2229&show_icons=true&count_private=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kadu2229&show_icons=true&count_private=true"
   />
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadu2229&layout=compact"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kadu2229&layout=compact"
   />
 </p>
+
 
 ---
 
