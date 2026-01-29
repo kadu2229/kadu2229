@@ -71,13 +71,12 @@ Portfolio: https://kadusilva.netlify.app/
   />
 </p>
 
-
 ---
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kadu2229/kadu2229/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kadu2229/kadu2229/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
