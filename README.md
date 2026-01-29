@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Front-end+with+React;Web+Applications&center=true&width=500&height=45"
+    src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Front-end+with+React;Web+and+Mobile+Applications&center=true&width=500&height=45"
   />
 </p>
 
@@ -16,8 +16,8 @@
 
 ### About
 
-I am a Software Developer and Systems Analysis student, focused on building modern web applications using JavaScript and React.  
-I have practical experience working with front-end and back-end technologies, prioritizing clean code, organization, and user experience.
+I am a Software Developer and Systems Analysis student, focused on building modern **web and mobile applications** using JavaScript and React.  
+I have practical experience working with front-end, mobile and back-end technologies, prioritizing clean code, organization, and user experience.
 
 Portfolio: https://kadusilva.netlify.app/
 
@@ -25,11 +25,14 @@ Portfolio: https://kadusilva.netlify.app/
 
 ### Tech Stack
 
-**Front-end**
+**Front-end (Web)**
 - HTML5, CSS3, JavaScript
 - React, Redux
 - Tailwind CSS, Bootstrap
 - Handlebars
+
+**Mobile**
+- React Native
 
 **Back-end**
 - Node.js, Express
@@ -51,33 +54,11 @@ Portfolio: https://kadusilva.netlify.app/
 
 ### Currently Learning
 - Advanced React and state management
+- Mobile development with React Native
 - Software architecture
 - Code quality and performance
 - Real-time communication with WebSockets
 - Back-end development with C#
-
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kadu2229&show_icons=true&count_private=true"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kadu2229&layout=compact"
-  />
-</p>
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kadu2229/kadu2229/main/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
